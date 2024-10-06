@@ -1,0 +1,38 @@
+body {
+  background-color:lightblue;
+ 
+}
+
+
+.sickman2{
+  width: 300px;
+  align-items: center;
+}
+.sickpoorelder{
+  width: 300px;
+  align-items: center;
+}
+.giving{
+  align-items: center;
+}
+.sickenman{
+  align-items:center 
+}
+
+p {
+  font-family:fantasy;
+  margin: 10px;
+  font-size: 20px;
+  text-align: center;
+    
+}
+
+
+h1 {
+  color: darkblue;
+  font-size: 29px;
+  text-align: center
+}
+
+
+
